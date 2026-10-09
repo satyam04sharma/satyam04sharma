@@ -14,7 +14,7 @@ Compact, searchable log memory for coding agents. Explicit adapters capture appl
 - **Hybrid retrieval:** semantic and keyword search, followed by model-based relevance filtering.
 - **Agent context:** summaries, preserved identifiers, timestamps and supporting memories; the requesting agent decides what to answer or do.
 
-[Read the README and try the demo →](https://github.com/satyam04sharma/logchat#try-a-separate-demo-app)
+[Read the README and connect your agent →](https://github.com/satyam04sharma/logchat#copy-this-to-your-agent)
 
 ## Connect with me
 
